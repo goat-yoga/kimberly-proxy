@@ -3,11 +3,10 @@
 > Project description
 
 ## Related Projects
-
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
+  - 
+  - https://github.com/goat-yoga/wilson_proxy
+  - https://github.com/goat-yoga/rizwan-service-actual
+  - https://github.com/goat-yoga/russell-service
 
 ## Table of Contents
 
