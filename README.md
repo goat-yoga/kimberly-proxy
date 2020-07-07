@@ -3,7 +3,7 @@
 > Project description
 
 ## Related Projects
-  - 
+  - https://github.com/goat-yoga/kimberly-service
   - https://github.com/goat-yoga/wilson_proxy
   - https://github.com/goat-yoga/rizwan-service-actual
   - https://github.com/goat-yoga/russell-service
